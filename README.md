@@ -1,4 +1,4 @@
-# Learning-C
+# Learning-C_University
 What I learned at university.
 Code is mostly writtien in polish, sorry.
 ## Semester 1
