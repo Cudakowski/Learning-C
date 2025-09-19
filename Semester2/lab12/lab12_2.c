@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
-#include "Student.c"
-#include "list.c"
+#include "Student.h"
+#include "list.h"
 
 int main(int argc, char const *argv[])
 {

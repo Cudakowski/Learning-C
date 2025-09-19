@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
-#include "Student.c"
-#include "list.c"
+#include "Student.h"
+#include "list.h"
 
 const char *ALPHABET="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const char *EMAIL_END="@student.agh.edu.pl";
